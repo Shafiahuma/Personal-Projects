@@ -1,0 +1,28 @@
+#container{
+  height: 400px;
+  width: 350px;
+  border: solid;
+  background-color: azure;
+  text-align: center;
+}
+#container h1{
+    color: rgb(14, 6, 0);
+    text-align: center;
+}
+#container input{
+    background-color: darksalmon;
+    font-size: medium;
+    color: white;
+    width: 80px;
+    height: 20px;  
+}
+.sub{
+    background-color: brown;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.rel{
+    background-color: brown;
+    margin-left: 150px;
+    margin-top: 5px;
+}
